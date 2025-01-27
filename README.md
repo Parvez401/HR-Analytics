@@ -1,3 +1,3 @@
 # HR-Analytics
 
-Designed a Power BI Dashboard to track employee data the HR team .
+Designed a Power BI Dashboard to track employee data for  the HR team .
