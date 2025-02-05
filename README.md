@@ -10,14 +10,15 @@ Objective
 
 Key Features
    
-    Automated dashboard transforming uploaded data into actionable formats.
-    Identified attendance trends and peak attendance days.
-    Supported HR in event scheduling and workforce planning.
+ Automated dashboard transforming uploaded data into actionable formats.
+ Identified attendance trends and peak attendance days.
+ Supported HR in event scheduling and workforce planning.
 
 
 Technologies Used
   
-   ools: Power BI
+   Tools: Power BI
+   
    Skills: Data Automation, HR Analytics, Dashboard Design
 
 
